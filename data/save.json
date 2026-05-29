@@ -1,0 +1,19 @@
+{
+  "grid_size": 3,
+  "sequence": [
+    6,
+    8,
+    4
+  ],
+  "player_index": 0,
+  "level": 3,
+  "lives": 3,
+  "phase": "showing",
+  "score": 30,
+  "streak_correct_levels": 2,
+  "recent_errors": [
+    false,
+    false
+  ],
+  "tempo_factor": 1.0
+}
